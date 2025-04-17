@@ -16,7 +16,7 @@ The project is divided into two parts:
 
 ---
 
-## 🧹 Part 1: Data Cleaning
+## Part 1: Data Cleaning
 
 ### Table: `layoffs` (Raw Data)
 
@@ -53,7 +53,7 @@ The project is divided into two parts:
 
 ---
 
-## 📊 Part 2: Exploratory Data Analysis
+## Part 2: Exploratory Data Analysis
 
 ### Key Analyses Performed
 
@@ -81,11 +81,11 @@ The project is divided into two parts:
 - **SQL**
   - Data cleaning and transformation
   - Aggregations, window functions, and CTEs
-- **MySQL** (or any compatible SQL engine)
+- **MySQL** 
 
 ---
 
-## 📌 Project Highlights
+##  Project Highlights
 
 - Demonstrates end-to-end data wrangling using only SQL
 - Strong use of window functions for deduplication and ranking
@@ -95,7 +95,11 @@ The project is divided into two parts:
 
 ## 📂 File Structure
 
-- Data_cleaning_project.sql - SQL script for data cleaning
-- Data_exploratory_project.sql - SQL script for EDA
-- README.md - Project documentation (you’re here!)
+- `Data_cleaning_project.sql` - SQL script for data cleaning
+- `Data_exploratory_project.sql` - SQL script for EDA
+- `README.md` - Project documentation (you’re here!)
+- `layoffs.csv` - Dataset
 
+## Feedback & Collaboration
+
+Have ideas, suggestions, or just want to say hi? Open an issue or connect with me online. I’d love to hear from you!
